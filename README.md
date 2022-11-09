@@ -1,7 +1,7 @@
 # IntegracionContinua
 Integración Continua Entrega
 1.Integrantes del grupo
-Alexander Rodriguez Rodriguez
+Alexander Rodriguez Rodriguez .
 Bryan Moreno
 Yeferson Eduardo Noreña Arenas
 Andres Felipe Villegas Corrales
