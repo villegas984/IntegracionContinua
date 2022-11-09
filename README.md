@@ -7,6 +7,10 @@ Yeferson Eduardo Noreña Arenas
 Andres Felipe Villegas Corrales
 Sergio Ricardo Figueroa Salcedo
 
+Cada uno de nosotros ha creado un branch y al final del proyecto haremos el merge al main.
+
+
+Entrega 1 Semana 3
 2.Proyecto de software que se realizará
 
 Realizaremos un e-commerce que nos permitirá buscar diversos productos y seleccionarlos, así como poder comprarlos.
