@@ -7,6 +7,8 @@ Yeferson Eduardo Noreña Arenas
 Andres Felipe Villegas Corrales
 Sergio Ricardo Figueroa Salcedo
 
+Distribución de los branches
+
 Cada uno de nosotros ha creado un branch y al final del proyecto haremos el merge al main.
 
 
