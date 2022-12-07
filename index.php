@@ -156,6 +156,7 @@ function consultaTalla(){
 <!--fin barra navegacion-->
 <!--seccion de productos-->
 <div class="panel-body">
+	<h1>Jenkins</h1>
     <h2>Mis Productos</h2>
     <a href="VerCarta.php" class="cart-link" title="Ver Carta"><i class="glyphicon glyphicon-shopping-cart"></i></a>
     <div id="products" class="row list-group-horizontal">
