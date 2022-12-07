@@ -12,7 +12,7 @@ pipeline{
                         fil=$(echo ${fileName} | sed 's/'"${JOB_NAME}"'/ /' | awk {'print $2'})
                         scp -r ${WORKSPACE}${fil} root@${staging_server}:/var/www/html/mbaquatech${fil}
                     done
-                '''
+                ''' test
             }
         }
     }
