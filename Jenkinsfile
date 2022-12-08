@@ -6,7 +6,7 @@ pipeline{
     stages{
         stage('Deploy to Remote'){
             steps{
-                sh 'scp -r C:\servicioweb\src root@${staging_server}:/var/www/html/'
+                sh 'scp -r C:\Users\ville\AppData\Local\Jenkins\workspace root@${staging_server}:/var/www/html/'
                  
             }
         }
