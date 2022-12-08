@@ -29,3 +29,5 @@ jenkins.model.JenkinsLocationConfiguration.xml
 .cache/fontconfig/d589a48862398ed80a3d6066f4f56f4c-le64.cache-7
 .cache/fontconfig/CACHEDIR.TAG
 .java/fonts/11.0.17/fcinfo-1-f9a70587084e-Linux-5.10.102.1-microsoft-standard-WSL2-en.properties
+Jenkinsfile1
+.owner
