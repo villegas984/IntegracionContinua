@@ -31,3 +31,6 @@ jenkins.model.JenkinsLocationConfiguration.xml
 .java/fonts/11.0.17/fcinfo-1-f9a70587084e-Linux-5.10.102.1-microsoft-standard-WSL2-en.properties
 Jenkinsfile1
 .owner
+hudson.plugins.emailext.ExtendedEmailPublisher.xml
+org.jenkinsci.plugins.workflow.flow.FlowExecutionList.xml
+queue.xml
