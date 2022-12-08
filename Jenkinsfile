@@ -1,12 +1,12 @@
 pipeline{
     agent any
     environment{
-        staging_server="172.17.0.3"
+        staging_server="f91130b39f32"
     }
     stages{
         stage('Deploy to Remote'){
             steps{
-                sh 'scp -r ${WORKSPACE}/* root@172.17.0.3:/var/www/html/'        
+                sh 'scp -r ${WORKSPACE}/* root@f91130b39f32:/var/www/html/Andres'      
             }
         }
     }
