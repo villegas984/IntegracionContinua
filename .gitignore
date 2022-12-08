@@ -20,3 +20,12 @@ updates/
 userContent/
 users/
 war/
+jenkins.install.InstallUtil.lastExecVersion
+jenkins.install.UpgradeWizard.state
+jenkins.model.JenkinsLocationConfiguration.xml
+.cache/fontconfig/4c599c202bc5c08e2d34565a40eac3b2-le64.cache-7
+.cache/fontconfig/7ef2298fde41cc6eeb7af42e48b7d293-le64.cache-7
+.cache/fontconfig/3830d5c3ddfd5cd38a049b759396e72e-le64.cache-7
+.cache/fontconfig/d589a48862398ed80a3d6066f4f56f4c-le64.cache-7
+.cache/fontconfig/CACHEDIR.TAG
+.java/fonts/11.0.17/fcinfo-1-f9a70587084e-Linux-5.10.102.1-microsoft-standard-WSL2-en.properties
